@@ -1,6 +1,6 @@
 {
   "name": "@venomswap/default-token-list",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "◦ The Venomswap default token list",
   "main": "build/venomswap-default.tokenlist.json",
   "scripts": {
@@ -28,11 +28,11 @@
   },
   "homepage": "https://github.com/VenomProtocol/venomswap-default-token-list#readme",
   "devDependencies": {
-    "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-lists": "^1.0.0-beta.8",
-    "ajv": "^6.12.3",
-    "chai": "^4.2.0",
-    "mocha": "^8.0.1",
+    "@ethersproject/address": "^5.3.0",
+    "@uniswap/token-lists": "^1.0.0-beta.24",
+    "ajv": "^6.12.6",
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
     "rimraf": "^3.0.2"
   }
 }
