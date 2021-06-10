@@ -214,5 +214,13 @@
     "name": "Freyala",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/XYA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xfe1b516A7297eb03229A8B5AfAD80703911E81cB",
+    "symbol": "ROY",
+    "name": "Royale",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ROY.png"
   }
 ]
