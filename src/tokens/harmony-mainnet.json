@@ -25,6 +25,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0xE064a68994e9380250CfEE3E8C0e2AC5C0924548",
+    "symbol": "xVIPER",
+    "name": "xVIPER",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/xVIPER.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
     "symbol": "1USDT",
     "name": "Tether USD",
