@@ -9,6 +9,22 @@
   },
   {
     "chainId": 1666700000,
+    "address": "0x11F477aE5f42335928fC94601a8A81ec77b27b2b",
+    "symbol": "VIPER",
+    "name": "Viper",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/VIPER.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x98b792BD73E10CF96b9f7b3A34baCdCe06349e3b",
+    "symbol": "xVIPER",
+    "name": "xVIPER",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/xVIPER.png"
+  },
+  {
+    "chainId": 1666700000,
     "address": "0x0E80905676226159cC3FF62B1876C907C91F7395",
     "symbol": "1BUSD",
     "name": "OneBUSD",
