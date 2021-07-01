@@ -214,5 +214,29 @@
     "name": "Royale",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ROY.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x2BfA122427085E0D1993CCcf1F74A4C915908F7B",
+    "symbol": "1UST",
+    "name": "Wrapped UST Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1UST.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x08CB2917245BBE75C8C9c6Dc4a7B3765Dae02b31",
+    "symbol": "bscDOT",
+    "name": "Polkadot Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscDOT.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c",
+    "symbol": "bscADA",
+    "name": "Cardano Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscADA.png"
   }
 ]
