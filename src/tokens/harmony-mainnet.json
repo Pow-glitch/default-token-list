@@ -257,6 +257,30 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x0341D02C0fD5439576742750e6F2a2C0993A520b",
+    "symbol": "bscZIL",
+    "name": "Zilliqa",
+    "decimals": 12,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscZIL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xd6bAd903e550822d51073AFb79581BF5aAE9243F",
+    "symbol": "bscATOM",
+    "name": "Cosmos Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscATOM.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x50aE1ABA372B836523C982d8CE88E89AA8A92863",
+    "symbol": "1TEL",
+    "name": "Telcoin",
+    "decimals": 2,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1TEL.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x0dD740Db89B9fDA3Baadf7396DdAD702b6E8D6f5",
     "symbol": "hMOCHI",
     "name": "MochiSwap Token",
