@@ -318,5 +318,13 @@
     "name": "Royale",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ROY.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE",
+    "symbol": "VINCI",
+    "name": "DaVinci Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/VINCI.png"
   }
 ]
