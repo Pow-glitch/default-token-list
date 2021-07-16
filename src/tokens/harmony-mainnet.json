@@ -41,11 +41,27 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a",
+    "symbol": "bscUSDT",
+    "name": "Tether USD Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscUSDT.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
     "symbol": "1USDC",
     "name": "USD Coin",
     "decimals": 6,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1USDC.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x44cED87b9F1492Bf2DCf5c16004832569f7f6cBa",
+    "symbol": "bscUSDC",
+    "name": "USD Coin Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscUSDC.png"
   },
   {
     "chainId": 1666600000,
@@ -57,6 +73,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x1d374ED0700a0aD3cd4945D66a5B1e08e5db20A8",
+    "symbol": "bscDAI",
+    "name": "Dai Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscDAI.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
     "symbol": "1WBTC",
     "name": "Wrapped BTC",
@@ -65,11 +89,27 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x34224dCF981dA7488FdD01c7fdd64E74Cd55DcF7",
+    "symbol": "bscBTCB",
+    "name": "BTCB Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscBTCB.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
     "symbol": "1ETH",
     "name": "Ether",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ETH.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x783EE3E955832a3D52CA4050c4C251731c156020",
+    "symbol": "bscETH",
+    "name": "Ethereum Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscETH.png"
   },
   {
     "chainId": 1666600000,
