@@ -176,11 +176,11 @@
     "logoURI": "https://assets.coingecko.com/coins/images/11085/small/Trust.png"
   },
   {
-    "name": "BSCswap",
-    "address": "0xacc234978A5eb941665fD051Ca48765610D82584",
-    "symbol": "BSWAP",
+    "name": "Viper",
+    "address": "0x7E080699D0F306dbAE458b13EA6fa8BfD0efe752",
+    "symbol": "1VIPER",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/12787/small/bscswap_logo.png"
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/VIPER.png"
   }
 ]
