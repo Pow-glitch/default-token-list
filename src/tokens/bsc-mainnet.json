@@ -5,7 +5,7 @@
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
   },
   {
     "address": "0x127e5D649199a4F4Dd6226D1C129046Df92C8341",
@@ -29,7 +29,7 @@
     "symbol": "BTCB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png"
   },
   {
     "name": "Ethereum Token",
@@ -37,7 +37,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
   },
   {
     "name": "Tether USD",
@@ -45,7 +45,7 @@
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
   },
   {
     "name": "XRP Token",
@@ -53,7 +53,7 @@
     "symbol": "XRP",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/44/small/xrp-symbol-white-128.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png"
   },
   {
     "name": "ChainLink Token",
@@ -61,7 +61,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD/logo.png"
   },
   {
     "name": "Bitcoin Cash Token",
@@ -69,7 +69,7 @@
     "symbol": "BCH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/780/small/bitcoin-cash-circle.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf/logo.png"
   },
   {
     "name": "Polkadot Token",
@@ -77,7 +77,7 @@
     "symbol": "DOT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/12171/small/aJGBjJFU_400x400.jpg"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402/logo.png"
   },
   {
     "name": "Litecoin Token",
@@ -85,7 +85,7 @@
     "symbol": "LTC",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/2/small/litecoin.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94/logo.png"
   },
   {
     "name": "EOS Token",
@@ -93,7 +93,7 @@
     "symbol": "EOS",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/738/small/eos-eos-logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6/logo.png"
   },
   {
     "name": "Cardano Token",
@@ -101,7 +101,7 @@
     "symbol": "ADA",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/975/small/cardano.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png"
   },
   {
     "name": "Tezos Token",
@@ -109,7 +109,7 @@
     "symbol": "XTZ",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/976/small/Tezos-logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x16939ef78684453bfDFb47825F8a5F714f12623a/logo.png"
   },
   {
     "name": "Ontology Token",
@@ -117,7 +117,7 @@
     "symbol": "ONT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/3447/small/ONT.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335/logo.png"
   },
   {
     "name": "Dai Token",
@@ -125,7 +125,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png"
   },
   {
     "name": "Band Protocol Token",
@@ -133,7 +133,7 @@
     "symbol": "BAND",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/9545/small/band-protocol.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18/logo.png"
   },
   {
     "name": "BUSD Token",
@@ -141,7 +141,15 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
+  },
+  {
+    "name": "USDC Token",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
   },
   {
     "name": "Cream",
@@ -149,7 +157,7 @@
     "symbol": "CREAM",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/11976/small/Cream.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888/logo.png"
   },
   {
     "name": "beefy.finance",
@@ -157,7 +165,7 @@
     "symbol": "BIFI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/12704/small/token.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xCa3F508B8e4Dd382eE878A314789373D80A5190A/logo.png"
   },
   {
     "name": "Pancake Token",
@@ -165,7 +173,7 @@
     "symbol": "Cake",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/markets/images/595/large/IMG_0440.PNG"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png"
   },
   {
     "name": "Ankr",
@@ -173,7 +181,7 @@
     "symbol": "ANKR",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/4324/small/U85xTl2.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xf307910A4c7bbc79691fD374889b36d8531B08e3/logo.png"
   },
   {
     "name": "Venus",
@@ -181,7 +189,7 @@
     "symbol": "XVS",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/12677/small/venus.jpg"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63/logo.png"
   },
   {
     "name": "Trust Wallet",
@@ -189,7 +197,7 @@
     "symbol": "TWT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://assets.coingecko.com/coins/images/11085/small/Trust.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x4B0F1812e5Df2A09796481Ff14017e6005508003/logo.png"
   },
   {
     "name": "Viper",
