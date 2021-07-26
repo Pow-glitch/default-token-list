@@ -8,6 +8,22 @@
     "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png"
   },
   {
+    "address": "0x127e5D649199a4F4Dd6226D1C129046Df92C8341",
+    "symbol": "COBRA",
+    "name": "COBRA",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/COBRA.png"
+  },
+  {
+    "address": "0x407336455cF2cF7De0F01E3939AEaa306cF3354C",
+    "symbol": "xCOBRA",
+    "name": "xCOBRA",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/xCOBRA.png"
+  },
+  {
     "name": "BTCB Token",
     "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
     "symbol": "BTCB",
