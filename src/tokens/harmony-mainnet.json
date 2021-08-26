@@ -342,5 +342,13 @@
     "name": "DaVinci Token",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/VINCI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x3Aa9470bdf720D7FF3D3fB78231803431970A329",
+    "symbol": "bscCOBRA",
+    "name": "COBRA",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscCOBRA.png"
   }
 ]
