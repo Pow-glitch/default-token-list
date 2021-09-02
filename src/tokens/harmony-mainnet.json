@@ -356,7 +356,7 @@
     "address": "0x03732a1b4297eC285999402A9129CFaD62a65463",
     "symbol": "anyBTC",
     "name": "ANY Bitcoin",
-    "decimals": 18,
+    "decimals": 8,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/anyBTC.png"
   }
 ]

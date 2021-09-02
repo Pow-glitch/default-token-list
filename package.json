@@ -1,6 +1,6 @@
 {
   "name": "@venomswap/default-token-list",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "◦ The Venomswap default token list",
   "main": "build/venomswap-default.tokenlist.json",
   "scripts": {
