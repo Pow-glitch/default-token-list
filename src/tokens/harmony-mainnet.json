@@ -345,10 +345,10 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0x3Aa9470bdf720D7FF3D3fB78231803431970A329",
-    "symbol": "bscCOBRA",
-    "name": "COBRA",
+    "address": "0x03732a1b4297eC285999402A9129CFaD62a65463",
+    "symbol": "anyBTC",
+    "name": "ANY Bitcoin",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscCOBRA.png"
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/anyBTC.png"
   }
 ]
