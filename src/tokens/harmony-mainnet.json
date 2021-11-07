@@ -358,5 +358,13 @@
     "name": "ANY Bitcoin",
     "decimals": 8,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/anyBTC.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x0dc78c79B4eB080eaD5C1d16559225a46b580694",
+    "symbol": "WAGMI",
+    "name": "Euphoria",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/WAGMI.png"
   }
 ]
