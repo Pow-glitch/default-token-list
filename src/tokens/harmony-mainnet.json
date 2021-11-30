@@ -366,5 +366,21 @@
     "name": "Euphoria",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/WAGMI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xF38593388079F7f5130d605E38aBF6090D981eC2",
+    "symbol": "sWAGMI",
+    "name": "Staked WAGMI",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/sWAGMI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xBb948620Fa9cD554eF9A331B13eDeA9B181F9D45",
+    "symbol": "wsWAGMI",
+    "name": "Wrapped sWAGMI",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/wsWAGMI.png"
   }
 ]
