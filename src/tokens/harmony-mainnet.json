@@ -382,5 +382,13 @@
     "name": "Wrapped sWAGMI",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/wsWAGMI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+    "symbol": "MAI",
+    "name": "MAI",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MAI.png"
   }
 ]
