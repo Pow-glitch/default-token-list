@@ -390,5 +390,21 @@
     "name": "MAI",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MAI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xc1873199284B4490A4AACbE7CD6710Dc6aA95e08",
+    "symbol": "ONEUSD",
+    "name": "ONEUSD",
+    "decimals": 8,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ONEUSD.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xeaFDfebF3bf18475034E91AACB0Bed4dbAfd2756",
+    "symbol": "1OIN",
+    "name": "oinfinance",
+    "decimals": 8,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1OIN.png"
   }
 ]
