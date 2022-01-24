@@ -406,5 +406,29 @@
     "name": "oinfinance",
     "decimals": 8,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1OIN.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x702f78E81Cf3DfaE89648b5a9e2e1aa8db1De546",
+    "symbol": "COMFY",
+    "name": "Comfy",
+    "decimals": 8,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/COMFY.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7627EEB598aa8bED7Eaa77BaDfE24c95826e75dF",
+    "symbol": "CBOND",
+    "name": "Comfy Bond",
+    "decimals": 8,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CBOND.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x3CB98cacd44Ee77eb35E99EB74Ace91bF550c964",
+    "symbol": "CSHARE",
+    "name": "Comfy Share",
+    "decimals": 8,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CSHARE.png"
   }
 ]
