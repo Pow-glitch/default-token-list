@@ -13,7 +13,7 @@
     "name": "COBRA",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/COBRA.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/COBRA.png"
   },
   {
     "address": "0x11110118d34FdE9c609E072D05C017C74190B758",
@@ -21,7 +21,7 @@
     "name": "xCOBRA",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/xCOBRA.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/xCOBRA.png"
   },
   {
     "name": "BTCB Token",

@@ -13,7 +13,7 @@
     "name": "COBRA",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/COBRA.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/COBRA.png"
   },
   {
     "address": "0x45f785581e0787D3C0C62676ABc6f17783e021f0",
@@ -21,7 +21,7 @@
     "name": "xCOBRA",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/xCOBRA.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/xCOBRA.png"
   },
   {
     "name": "BTCB Token",
@@ -205,7 +205,7 @@
     "symbol": "1VIPER",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/VIPER.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/VIPER.png"
   },
   {
     "name": "Swipe",

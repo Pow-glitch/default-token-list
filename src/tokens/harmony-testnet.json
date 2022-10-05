@@ -13,7 +13,7 @@
     "symbol": "VIPER",
     "name": "Viper",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/VIPER.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/VIPER.png"
   },
   {
     "chainId": 1666700000,
@@ -21,7 +21,7 @@
     "symbol": "xVIPER",
     "name": "xVIPER",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/xVIPER.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/xVIPER.png"
   },
   {
     "chainId": 1666700000,
