@@ -2,10 +2,12 @@ const packageJson = require('../package.json');
 const schema = require('@uniswap/token-lists/src/tokenlist.schema.json');
 const { expect } = require('chai');
 const { getAddress } = require('@ethersproject/address');
-const Ajv = require('ajv');
 const buildList = require('../src/buildList');
+const AJV = require('ajv').default;
+const addFormats = require('ajv-formats').default;
 
-const ajv = new Ajv({ allErrors: true, format: 'full' });
+const ajv = new AJV({ allErrors: true });
+addFormats(ajv);
 const validator = ajv.compile(schema);
 
 describe('buildList', () => {

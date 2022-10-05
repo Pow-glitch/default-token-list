@@ -5,7 +5,7 @@
     "symbol": "WONE",
     "name": "Wrapped ONE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/WONE.png"
   },
   {
     "chainId": 1666600000,
@@ -13,7 +13,7 @@
     "symbol": "BUSD",
     "name": "Binance USD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/BUSD.png"
   },
   {
     "chainId": 1666600000,
@@ -21,7 +21,15 @@
     "symbol": "VIPER",
     "name": "Viper",
     "decimals": 18,
-    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/VIPER.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xE064a68994e9380250CfEE3E8C0e2AC5C0924548",
+    "symbol": "xVIPER",
+    "name": "xVIPER",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/xVIPER.png"
   },
   {
     "chainId": 1666600000,
@@ -29,7 +37,15 @@
     "symbol": "1USDT",
     "name": "Tether USD",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1USDT.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a",
+    "symbol": "bscUSDT",
+    "name": "Tether USD Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscUSDT.png"
   },
   {
     "chainId": 1666600000,
@@ -37,7 +53,15 @@
     "symbol": "1USDC",
     "name": "USD Coin",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1USDC.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x44cED87b9F1492Bf2DCf5c16004832569f7f6cBa",
+    "symbol": "bscUSDC",
+    "name": "USD Coin Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscUSDC.png"
   },
   {
     "chainId": 1666600000,
@@ -45,7 +69,15 @@
     "symbol": "1DAI",
     "name": "Dai Stablecoin",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1DAI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x1d374ED0700a0aD3cd4945D66a5B1e08e5db20A8",
+    "symbol": "bscDAI",
+    "name": "Dai Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscDAI.png"
   },
   {
     "chainId": 1666600000,
@@ -53,7 +85,15 @@
     "symbol": "1WBTC",
     "name": "Wrapped BTC",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1WBTC.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x34224dCF981dA7488FdD01c7fdd64E74Cd55DcF7",
+    "symbol": "bscBTCB",
+    "name": "BTCB Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscBTCB.png"
   },
   {
     "chainId": 1666600000,
@@ -61,7 +101,15 @@
     "symbol": "1ETH",
     "name": "Ether",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1ETH.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x783EE3E955832a3D52CA4050c4C251731c156020",
+    "symbol": "bscETH",
+    "name": "Ethereum Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscETH.png"
   },
   {
     "chainId": 1666600000,
@@ -69,7 +117,7 @@
     "symbol": "LINK",
     "name": "ChainLink Token",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/LINK.png"
   },
   {
     "chainId": 1666600000,
@@ -77,23 +125,15 @@
     "symbol": "bscBUSD",
     "name": "BUSD Token",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscBUSD.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0xFd2a8F8cF7CFFeA4a613F1DFf39b22881D4a1f92",
-    "symbol": "1ROT",
-    "name": "RottenToken",
+    "address": "0xb1f6E61E1e113625593a22fa6aa94F8052bc39E0",
+    "symbol": "bscBNB",
+    "name": "Binance BNB",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ROT.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xBfD4F1699b83eDBa1106B6E224b7aC599A40be1F",
-    "symbol": "1MAGGOT",
-    "name": "MaggotToken",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MAGGOT.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscBNB.png"
   },
   {
     "chainId": 1666600000,
@@ -101,7 +141,7 @@
     "symbol": "1WISE",
     "name": "Wise Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1WISE.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1WISE.png"
   },
   {
     "chainId": 1666600000,
@@ -109,7 +149,7 @@
     "symbol": "1DSLA",
     "name": "DSLA",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1DSLA.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1DSLA.png"
   },
   {
     "chainId": 1666600000,
@@ -117,7 +157,7 @@
     "symbol": "1AAVE",
     "name": "Aave Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1AAVE.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1AAVE.png"
   },
   {
     "chainId": 1666600000,
@@ -125,7 +165,7 @@
     "symbol": "1SNX",
     "name": "Synthetix Network Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1SNX.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1SNX.png"
   },
   {
     "chainId": 1666600000,
@@ -133,7 +173,7 @@
     "symbol": "1YFI",
     "name": "yearn.finance",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1YFI.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1YFI.png"
   },
   {
     "chainId": 1666600000,
@@ -141,7 +181,7 @@
     "symbol": "11INCH",
     "name": "1INCH Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/11INCH.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/11INCH.png"
   },
   {
     "chainId": 1666600000,
@@ -149,7 +189,7 @@
     "symbol": "bscCAKE",
     "name": "PancakeSwap Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscCAKE.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscCAKE.png"
   },
   {
     "chainId": 1666600000,
@@ -157,7 +197,7 @@
     "symbol": "1SUSHI",
     "name": "SushiToken",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1SUSHI.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1SUSHI.png"
   },
   {
     "chainId": 1666600000,
@@ -165,7 +205,7 @@
     "symbol": "1UNI",
     "name": "Uniswap",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1UNI.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1UNI.png"
   },
   {
     "chainId": 1666600000,
@@ -173,23 +213,119 @@
     "symbol": "1MATIC",
     "name": "Matic Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MATIC.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1MATIC.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0x0dD740Db89B9fDA3Baadf7396DdAD702b6E8D6f5",
-    "symbol": "hMOCHI",
-    "name": "MochiSwap Token",
+    "address": "0x95CE547D730519A90dEF30d647F37D9E5359B6Ae",
+    "symbol": "LUNA",
+    "name": "Wrapped LUNA Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/HMOCHI.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/LUNA.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
-    "symbol": "oSWAP",
-    "name": "OpenSwap Token",
+    "address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
+    "symbol": "UST",
+    "name": "Wrapped UST Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/OSWAP.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/UST.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x08CB2917245BBE75C8C9c6Dc4a7B3765Dae02b31",
+    "symbol": "bscDOT",
+    "name": "Polkadot Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscDOT.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c",
+    "symbol": "bscADA",
+    "name": "Cardano Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscADA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xa7a22299918828D791240f9Ec310c2E066592053",
+    "symbol": "1xSUSHI",
+    "name": "xSUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1xSUSHI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x352cd428EFd6F31B5cae636928b7B84149cF369F",
+    "symbol": "1CRV",
+    "name": "Curve DAO Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1CRV.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x32137b9275EA35162812883582623cd6f6950958",
+    "symbol": "1COMP",
+    "name": "Compound",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1COMP.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xDc5f76104D0B8D2bF2c2Bbe06CDFE17004E9010f",
+    "symbol": "1BAL",
+    "name": "Balancer",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1BAL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x5c99F47e749d2Fb9F6002a2945df5Ea3F7162dFe",
+    "symbol": "1CREAM",
+    "name": "Cream",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1CREAM.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x4261b6a6e3Ca6D186C0fE7d0510e707aaf30A42b",
+    "symbol": "bscEPS",
+    "name": "Ellipsis",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscEPS.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x04f308C988ec1C5A4e4A99d3d2A5B8F4287260bD",
+    "symbol": "bscXVS",
+    "name": "Venus",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscXVS.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x0341D02C0fD5439576742750e6F2a2C0993A520b",
+    "symbol": "bscZIL",
+    "name": "Zilliqa",
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscZIL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xd6bAd903e550822d51073AFb79581BF5aAE9243F",
+    "symbol": "bscATOM",
+    "name": "Cosmos Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscATOM.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x50aE1ABA372B836523C982d8CE88E89AA8A92863",
+    "symbol": "1TEL",
+    "name": "Telcoin",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1TEL.png"
   },
   {
     "chainId": 1666600000,
@@ -197,14 +333,102 @@
     "symbol": "JENN",
     "name": "TokenJenny",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/JENN.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/JENN.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
-    "symbol": "XYA",
-    "name": "Freyala",
+    "address": "0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE",
+    "symbol": "VINCI",
+    "name": "DaVinci Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/XYA.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/VINCI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x3Aa9470bdf720D7FF3D3fB78231803431970A329",
+    "symbol": "bscCOBRA",
+    "name": "COBRA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/bscCOBRA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x03732a1b4297eC285999402A9129CFaD62a65463",
+    "symbol": "anyBTC",
+    "name": "ANY Bitcoin",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/anyBTC.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x0dc78c79B4eB080eaD5C1d16559225a46b580694",
+    "symbol": "WAGMI",
+    "name": "Euphoria",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/WAGMI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xF38593388079F7f5130d605E38aBF6090D981eC2",
+    "symbol": "sWAGMI",
+    "name": "Staked WAGMI",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/sWAGMI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xBb948620Fa9cD554eF9A331B13eDeA9B181F9D45",
+    "symbol": "wsWAGMI",
+    "name": "Wrapped sWAGMI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/wsWAGMI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+    "symbol": "MAI",
+    "name": "MAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/MAI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xc1873199284B4490A4AACbE7CD6710Dc6aA95e08",
+    "symbol": "ONEUSD",
+    "name": "ONEUSD",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/ONEUSD.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xeaFDfebF3bf18475034E91AACB0Bed4dbAfd2756",
+    "symbol": "1OIN",
+    "name": "oinfinance",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1OIN.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x702f78E81Cf3DfaE89648b5a9e2e1aa8db1De546",
+    "symbol": "COMFY",
+    "name": "Comfy",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/COMFY.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7627EEB598aa8bED7Eaa77BaDfE24c95826e75dF",
+    "symbol": "CBOND",
+    "name": "Comfy Bond",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/CBOND.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x3CB98cacd44Ee77eb35E99EB74Ace91bF550c964",
+    "symbol": "CSHARE",
+    "name": "Comfy Share",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/CSHARE.png"
   }
 ]
