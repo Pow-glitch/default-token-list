@@ -1,6 +1,6 @@
 {
   "name": "@conedex/default-token-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "◦ The ConeDEX default token list",
   "main": "build/conedex-default.tokenlist.json",
   "files": [
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VenomProtocol/venomswap-default-token-list.git"
+    "url": "git+https://github.com/conedex/default-token-list.git"
   },
   "keywords": [
     "conedex",
@@ -21,10 +21,10 @@
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "Moody Salem, joshschcom",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/VenomProtocol/venomswap-default-token-list/issues"
+    "url": "https://github.com/conedex/default-token-list/issues"
   },
   "homepage": "",
   "devDependencies": {
