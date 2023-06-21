@@ -1,16 +1,11 @@
 {
   "name": "@conedex/default-token-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "◦ The ConeDEX default token list",
   "main": "build/conedex-default.tokenlist.json",
   "files": [
     "build/conedex-default.tokenlist.json"
   ],
-  "scripts": {
-    "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/conedex-default.tokenlist.json",
-    "prepublishOnly": "npm test && npm run build"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/conedex/default-token-list.git"
