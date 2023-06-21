@@ -1,0 +1,10 @@
+[
+  {
+    "chainId": 80001,
+    "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
+    "symbol": "WMATIC",
+    "name": "Wrapped MATIC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+  }
+]

@@ -6,13 +6,13 @@ const goerli = require("./tokens/goerli.json");
 const kovan = require("./tokens/kovan.json");*/
 const bscMainnet = require("./tokens/bsc-mainnet.json");
 const bscTestnet = require("./tokens/bsc-testnet.json");
-const harmonyMainnet = require("./tokens/harmony-mainnet.json");
-const harmonyTestnet = require("./tokens/harmony-testnet.json");
+const polygonMainnet = require("./tokens/polygon-mainnet.json");
+const polygonTestnet = require("./tokens/polygon-testnet.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Venomswap Default",
+    name: "ConeDEX Default",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -20,9 +20,10 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://raw.githubusercontent.com/VenomProtocol/assets/main/logos/venomswap-128x128.png",
-    keywords: ["venomswap", "default"],
-    tokens: [...bscMainnet, ...bscTestnet, ...harmonyMainnet, ...harmonyTestnet]
+    logoURI:
+      "https://raw.githubusercontent.com/VenomProtocol/assets/main/logos/venomswap-128x128.png",
+    keywords: ["conedex", "default"],
+    tokens: [...bscMainnet, ...bscTestnet, ...polygonMainnet, ...polygonTestnet]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
