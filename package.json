@@ -1,7 +1,7 @@
 {
   "name": "@conedex/default-token-list",
-  "version": "1.0.5",
-  "description": "◦ The ConeDEX default token list",
+  "version": "1.0.6",
+  "description": "The ConeDEX default token list",
   "main": "build/conedex-default.tokenlist.json",
   "files": [
     "build/conedex-default.tokenlist.json"
