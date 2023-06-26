@@ -15,19 +15,19 @@
     "tokens": [
       {
         "chainId": 137,
-        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
-        "symbol": "WMATIC",
-        "name": "Wrapped MATIC",
+        "address": "0xbA777aE3a3C91fCD83EF85bfe65410592Bdd0f7c",
+        "symbol": "CONE",
+        "name": "BitCone",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png?1624446912"
+        "logoURI": "https://conegecko.com/assets/img/bitcone.png"
       },
       {
         "chainId": 80001,
-        "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
-        "symbol": "WMATIC",
-        "name": "Wrapped MATIC",
+        "address": "0x80273525B1548EeA1f211f4218Cf30c1a7C86b25",
+        "symbol": "CONE",
+        "name": "BitCone",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png?1624446912"
+        "logoURI": "https://conegecko.com/assets/img/bitcone.png"
       }
     ]
   }
